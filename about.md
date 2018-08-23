@@ -21,4 +21,4 @@ And as my friend always said, "SEEK, YOU SHALL FIND"
 
 ### Contact me
 
-[https://siddharthshashikar.github.io](Personal Website)
+[Personal Website](https://siddharthshashikar.github.io)
