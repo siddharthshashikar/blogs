@@ -4,11 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Hi! 
-I have recently completed my B.Tech in Computer Science from NIIT University(2014-18). In my  entire B.Tech journey I was continuously exposed to different projects & situations, both academically and non-academically.    
+Some information about you!
 
-Hope you find the blogs useful!!
+### More Information
+
+A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[https://siddharthshashikar.github.io](Personal Website)
+[email@domain.com](mailto:email@domain.com)
