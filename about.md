@@ -1,15 +1,14 @@
 ---
-layout: url
+layout: page
 title: About
-permalink: https://siddharthshashikar.github.io/
+permalink: /about/
 ---
 
-Some information about you!
+Hi! 
+I have recently completed my B.Tech in Computer Science from NIIT University(2014-18). In my  entire B.Tech journey I was continuously exposed to different projects & situations, both academically and non-academically.    
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hope you find the blogs useful!!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[https://siddharthshashikar.github.io](Personal Website)
