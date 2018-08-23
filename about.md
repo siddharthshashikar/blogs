@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: url
 title: About
-permalink: /about/
+permalink: https://siddharthshashikar.github.io/
 ---
 
 Some information about you!
