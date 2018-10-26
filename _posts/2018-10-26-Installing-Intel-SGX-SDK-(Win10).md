@@ -3,39 +3,38 @@ layout: post
 title: Hardware Forced Security
 ---
  
-Welcome, to a quick introduction & setup session on Intel-SGX SDK for Windows. Before sta
-rting the installation, just let me give a brief introduction.
+Welcome, to a quick introduction & setup session on Intel-SGX SDK for Windows. Before starting the installation, just let me give a brief introduction.
 
-> What is Intel SGX ?
-> Why Even bother using Intel SGX ?
+* What is Intel SGX ?
 
-So, Intel SGX abbr. Intel Software Gaurd Extension, is a technology that helps application developers, protect selected code & data from discloser and modification. It create something know as enclaves, which are isolated portions of memory, providing a trusted execution enviorment for the applications.
+* Why Even bother using Intel SGX ?
 
-Okay, Okay I get it ?? 
+So, Intel SGX abbr. Intel Software Guard Extension, is a technology that helps application developers, protect selected code & data from disclosure and modification. It create something know as enclaves, which are isolated portions of memory, providing a trusted execution environment for the applications.
+
+Okay, Okay I get it ??
 
 But why do I even bother using something like that?
 
-Hmm, As the saying goes 
+Hmm, As the saying goes
 
-“Man is not what he thinks he is, he is what he hides” ― André Malraux.
+> “Man is not what he thinks he is, he is what he hides” ― André Malraux.
 
-Every one have secrets, the question is how well you protect it, from not becoming a secret. 
+Everyone have secrets, the question is how well you protect it, from not becoming a secret.
 
-Ok let me give you few basic use-cases or senarios,
+Okay, let me give you few basic use-cases or scenarios,
 
->> Health Records.
->> Personal Indentifiable Information (PII).
->> Intellecutal Property.
->> Passwords.
->> Encryption Keys.
->> Bank Data etc.
+- Health Records.
+- Personal Identifiable Information (PII).
+- Intellectual Property.
+- Passwords.
+- Encryption Keys.
+- Bank Data etc.
 
-These are few types of data, that are valuable to companies.   
+These are few types of data, that are valuable to companies.  
 
-So, that being said Intel SGX is not the ultimate security requirement for app, but yeah it's definetely place to start.
+So, that being said Intel SGX is not the ultimate security requirement for app, but yeah it's definitely place to start.
 
-
-Now, lets dive deep further into the installation.
+Now, let's dive deep further into the installation.
 
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
