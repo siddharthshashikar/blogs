@@ -49,7 +49,7 @@ Then, click Processors > Intel Core Processors > "Pick your Processor" eg: 7th g
 
 if __yes__ then great, else [I have your back](https://software.intel.com/en-us/blogs/2016/05/30/usage-of-simulation-mode-in-sgx-enhanced-application).
 
-Now once you are through with Condition 1, let's go to Condition 2 & 3, reboot your PC, open you BIOS Setting check for "Intel Software Guard Entension", just enable it !  
+Now once you are through with Condition 1, let's go to Condition 2 & 3, reboot your PC, open you BIOS Setting check for "Intel Software Guard Entension", just enable it!  
 
 Generally, there are three possible BIOS setting options
 
