@@ -35,7 +35,7 @@ So, that being said Intel SGX is not __the ultimate security solution__ for appl
 
 Now, let's dive deep further into the installation.
 
-Here I'm assuming that you have already installed some version of Microsoft Visual Studio, if not follow the link [Download Microsoft Visual Studio].(https://visualstudio.microsoft.com/downloads/)
+Here I'm assuming that you have already installed some version of Microsoft Visual Studio, if not follow the link [Download Microsoft Visual Studio](https://visualstudio.microsoft.com/downloads/).
 
 But before an application can use Intel SGX, four condition should be met !!!
 1. The CPU in the system must support the Intel SGX instructions.
@@ -43,25 +43,26 @@ But before an application can use Intel SGX, four condition should be met !!!
 3. Intel SGX must be enabled in the BIOS, and
 4. The Intel SGX Platform Software, or PSW, must be installed on that system.
 
-Now, let's started with Condition 1, inorder to check if your CPU supports Intel SGX instruction kindly visit the [website](https://ark.intel.com/).
+Now, let's get started with Condition 1, inorder to check if your CPU supports Intel SGX instruction kindly visit the [website](https://ark.intel.com/).
 
 Then, click Processors > Intel Core Processors > "Pick your Processor" eg: 7th generation Intel Core i7 Processor > "Select Product Name" > Under Security and Reliability look for "Intel® Software Guard Extensions (Intel® SGX) == YES" .
 
 if __yes__ then great, else [I have your back](https://software.intel.com/en-us/blogs/2016/05/30/usage-of-simulation-mode-in-sgx-enhanced-application).
 
-Now once you are through with Condition 1, let's go to Condition 2 & 3, reboot you PC, open you BIOS Setting check for "Intel Software Guard Entension", just enable it !  
+Now once you are through with Condition 1, let's go to Condition 2 & 3, reboot your PC, open you BIOS Setting check for "Intel Software Guard Entension", just enable it !  
 
-There are three possible BIOS setting options
+Generally, there are three possible BIOS setting options
 
 1. Enabled
 2. Disabled 
 3. Software Controlled
 
-Not all BIOS manufactuers implement all 3 options and some may even provide no option at all. __Enabled__ setting explicity enables the Intel SGX, __Disable__ they explicity disables the Intel SGX, __Software Controlled__ option allows Intel SGX application to have the BIOS enable it automatically, next time the system reboots.   
+Not all BIOS manufactuers implement all 3 options and some may even provide no option at all. __Enabled__ setting explicity enables the Intel SGX, __Disable__ setting explicity disables the Intel SGX, __Software Controlled__ option allows Intel SGX application to have the BIOS enable it automatically, next time the system reboots.   
 
 Ok great, Condition 4 now let's start downloading the SDK and PSW, just follow the links
 
 - [Download Intel SGX SDK for Windows](https://software.intel.com/en-us/sgx-sdk/download)
 - [Download Intel SGX PSW for Windows PSW](https://software.intel.com/en-us/sgx-sdk/download) 
 
-P.S - Intel asks you fill a small form, once you have successfully filled the form, it sends you the link to download the SDK & PWS on your registered email address.
+P.S - Intel asks you fill to a small form, once you have successfully filled the form, it sends you the link to download the SDK & PWS on your registered email address.
+
