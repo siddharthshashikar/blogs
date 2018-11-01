@@ -39,9 +39,7 @@ These are few types of data, that are extremely valuable into today's data enabl
 
 So, that being said Intel SGX is not __the ultimate security solution__ for applications, but yeah it's definitely a great place to start.
 
-Now, let's dive deep further into the installation.
-
-Here I'm assuming that you have already installed some version of Microsoft Visual Studio, if not follow the link [Download Microsoft Visual Studio](https://visualstudio.microsoft.com/downloads/).
+Now, let's dive deep further into the installation. Here I'm assuming that you have already installed some version of Microsoft Visual Studio, if not follow the link [Download Microsoft Visual Studio](https://visualstudio.microsoft.com/downloads/).
 
 But before an application can use Intel SGX, four condition should be met !!!
 
