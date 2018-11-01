@@ -20,7 +20,9 @@ html {
 
 body {
 	background: $white;
-  font: 16px/1.9 $SansSerif;
+  font-size: 16px ;
+  font-family: $SansSerif;
+  line-height: 1cm;
   color: $darkGray;
 }
 
