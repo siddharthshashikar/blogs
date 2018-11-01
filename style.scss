@@ -20,7 +20,7 @@ html {
 
 body {
 	background: $white;
-  font: 16px/1.2 $SansSerif;
+  font: 16px/1.9 $SansSerif;
   color: $darkGray;
 }
 
@@ -288,7 +288,3 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
-@font-face{
-  font-family: 'Roboto', sans-serif; 
-  src: url('https://fonts.googleapis.com/css?family=Roboto');
-}
