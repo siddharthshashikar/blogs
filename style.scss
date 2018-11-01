@@ -20,7 +20,7 @@ html {
 
 body {
 	background: $white;
-  font: 16px/1.2 $Roboto;
+  font: 16px/1.2 $SansSerif;
   color: $darkGray;
 }
 
@@ -32,7 +32,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $Roboto;
+  font-family: $SansSerif;
   color: $darkerGray;
   font-weight: bold;
 
