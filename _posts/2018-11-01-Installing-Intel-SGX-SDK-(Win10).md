@@ -2,9 +2,11 @@
 layout: post
 title: Hardware Forced Security
 ---
+
  Welcome, to a quick introduction and setup of Intel-SGX SDK for Windows. Before starting the installation, just let me give a brief introduction.
 
 * What is Intel SGX ?
+
 * Why Even bother using Intel SGX ?
 
 So, Intel SGX abbr. Intel Software Guard Extension, is a technology that helps application developers, protect selected code & data from disclosure and modification. It create something know as enclaves, which are isolated portions of memory, providing a trusted execution environment for the applications.
@@ -22,10 +24,15 @@ Everyone have secrets, the question is how well you protect it, from not being a
 Okay, let me give you few basic use-cases or scenarios,
 
 * Health Records.
+
 * Personal Identifiable Information (PII).
+
 * Intellectual Property.
+
 * Passwords.
+
 * Encryption Keys.
+
 * Bank Data etc.
 
 These are few types of data, that are extremely valuable into today's data enabled world.  
@@ -75,7 +82,7 @@ Installing Intel SGX SDK is quite easy just follow the GUI installer, but make s
 
 In the next post we will be discussing "How to build a sample project using the Intel SGX SDK and Visual Studio". Until next time, be better than you were before.
 
- #####References
+##### References
 
 * [Intel SGX Web Based Training](https://software.intel.com/en-us/documentation/intel-sgx-web-based-training).
 
