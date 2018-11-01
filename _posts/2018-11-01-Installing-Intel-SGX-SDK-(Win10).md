@@ -2,8 +2,6 @@
 layout: post
 title: Hardware Forced Security
 ---
-![_config.yml]({{ site.baseurl }}/images/Intel1.jpg)
-
  Welcome, to a quick introduction and setup of Intel-SGX SDK for Windows. Before starting the installation, just let me give a brief introduction.
 
 * What is Intel SGX ?
