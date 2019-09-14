@@ -1,13 +1,9 @@
 # Site
-name: 'Mundana'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+name: 'FACT.'
+description: 'FACT abbreviation for Finance Accounting and Technology is a blogging for Finance, Accounting and FinTech Enthusiast.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: '/mundana-theme-jekyll'
-disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
-
+baseurl: '/blogs'
 include: ["_pages"]
 permalink: /:title/
 
@@ -19,22 +15,16 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
-      name:           Sal
-      site:           https://www.wowthemes.net
+    Siddharth:
+      name:           Siddharth
+      site:           https://siddharthshashikar.github.io/
+      github:         https://github.com/siddharthshashikar/siddharthshashikar
+      linkedin:       https://www.linkedin.com/in/siddharth-shashikar/
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      bio:            "Hi, I am Siddharth, the author of FACT. I'm a finance and money enthusiast, currently exploring different fields related to finance, loves to keep myself occupied with books, netflix & doodling. "
+      email:          'siddharth.shashikar.1@gmail.com'
 
-    jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
- 
+      
 # Defaults
 defaults:
 
@@ -43,7 +33,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
+      author: Siddharth Shashikar
       avatar: /assets/images/avatar1.jpg
       
   # all pages
